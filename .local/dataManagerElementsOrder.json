@@ -1,0 +1,50 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EjemploStateMachine.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vColeccion&State_2",
+        "vStrTextoPDF&StateMachine_1",
+        "vStrDato&StateMachine_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_ExpresionRegular",
+        "in_RutaArchivoPDF"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ejemplo Flowchar.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "vStrTextoPDF&Flowchart_1",
+        "vStrDato&Flowchart_1",
+        "vColeccion&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_RutaArchivoPDF",
+        "in_ExpresionRegular"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
